@@ -6,4 +6,4 @@ def api_branch_function(parameter: list):
 
 
 def api_branch_subfunction(parameter):
-    print(f'this item\'s type is {type(parameter)}')
+    print(f'this item\'s type is {str(type(parameter)).split()[1][1:-2]}')

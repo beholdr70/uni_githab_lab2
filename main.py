@@ -1,4 +1,4 @@
-import math
+from api_functional import api_branch_function
 from auth_additional import is_positive_num
 
 
@@ -28,3 +28,4 @@ if __name__ == '__main__':
     auth_branch_function(0)
     auth_branch_function(-1)
     ui_branch_function('Hello, World!')
+    api_branch_function([num for num in range(10)])
