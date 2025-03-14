@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54b6c30e-9f60-4f5b-8acb-6608df227b24" name="Changes" comment="Ui branch 3rd commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="topic/ui" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2uK3cyJrLesaB4AUXEPHzVcawMP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/uni_githab_lab 2"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54b6c30e-9f60-4f5b-8acb-6608df227b24" name="Changes" comment="" />
+      <created>1741983521113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741983521113</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Main branch start">
+      <option name="closed" value="true" />
+      <created>1741983640007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741983640007</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Auth branch 1st commit">
+      <option name="closed" value="true" />
+      <created>1741983893566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741983893566</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Auth branch 2nd commit">
+      <option name="closed" value="true" />
+      <created>1741984038016</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741984038016</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Auth branch 3rd commit">
+      <option name="closed" value="true" />
+      <created>1741984316691</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741984316691</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ui branch 1st commit">
+      <option name="closed" value="true" />
+      <created>1741984518230</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741984518230</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ui branch 2nd commit">
+      <option name="closed" value="true" />
+      <created>1741984592444</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741984592444</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ui branch 3rd commit">
+      <option name="closed" value="true" />
+      <created>1741984707082</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741984707082</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main branch start" />
+    <MESSAGE value="Auth branch 1st commit" />
+    <MESSAGE value="Auth branch 2nd commit" />
+    <MESSAGE value="Auth branch 3rd commit" />
+    <MESSAGE value="Ui branch 1st commit" />
+    <MESSAGE value="Ui branch 2nd commit" />
+    <MESSAGE value="Ui branch 3rd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ui branch 3rd commit" />
+  </component>
+</project>
