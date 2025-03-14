@@ -1,6 +1,7 @@
 import math
 from auth_additional import is_positive_num
 
+
 def auth_branch_function(parameter: int):
     print(f'this is auth branch function\'s 3rd edition: {is_positive_num(parameter)}')
 
