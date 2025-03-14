@@ -1,5 +1,8 @@
-def auth_branch_function(parameter):
-    print(f'this is auth branch function: {parameter ** 2}')
+import math
+
+
+def auth_branch_function(parameter: int):
+    print(f'this is auth branch function\'s 2nd edition: {math.cos(parameter * math.pi)}')
 
 
 def main_branch_function():
@@ -8,4 +11,4 @@ def main_branch_function():
 
 if __name__ == '__main__':
     main_branch_function()
-
+    auth_branch_function(3)
