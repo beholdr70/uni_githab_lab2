@@ -1,5 +1,5 @@
 def ui_branch_function(parameter: str):
-    print(f'this is ui branch function\'s 2nd edition: {parameter.upper()}')
+    print(f'this is ui branch function\'s 3rd edition: {''.join(char for char in parameter if char.isprintable())}')
 
 
 def main_branch_function():
