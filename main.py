@@ -1,6 +1,7 @@
 def database_branch_function():
     print('this database branch function: part 1')
     print('this database branch function: part 2')
+    print('this database branch function: part 3')
 
 
 def main_branch_function():
