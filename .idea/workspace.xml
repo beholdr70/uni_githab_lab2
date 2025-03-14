@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54b6c30e-9f60-4f5b-8acb-6608df227b24" name="Changes" comment="API branch 3rd commit" />
+    <list default="true" id="54b6c30e-9f60-4f5b-8acb-6608df227b24" name="Changes" comment="Ui branch 3rd commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$" value="topic/ui" />
         <entry key="$PROJECT_DIR$" value="topic/database" />
       </map>
     </option>
@@ -28,6 +30,9 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2uK3cyJrLesaB4AUXEPHzVcawMP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -164,6 +169,7 @@
       <updated>1741985359210</updated>
     </task>
     <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +191,7 @@
     <MESSAGE value="Ui branch 1st commit" />
     <MESSAGE value="Ui branch 2nd commit" />
     <MESSAGE value="Ui branch 3rd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ui branch 3rd commit" />
     <MESSAGE value="Database branch 1st commit" />
     <MESSAGE value="Database branch 2nd commit" />
     <MESSAGE value="Database branch 3rd commit" />
